@@ -55,7 +55,7 @@ function draw() {
     hasDocked = true;
     textSize(25);
     fill("white")
-    text("Docking UnSuccessful!", 200, 300);
+    text("Docking Successful!", 200, 300);
   }
 
 
